@@ -3,7 +3,7 @@
  * Plugin name: 	Sharelock - Facebook Share Content Locker
  * Plugin URI: 		https://github.com/jiteshp/sharelock/
  * Description: 	Locks your valuable content behind a Facebook share button.
- * Version: 		1.0.0
+ * Version: 		1.0.1
  * Author: 			Jitesh Patil
  * Author URI: 		https://www.jiteshpatil.com/
  * License: 		GPL3+
